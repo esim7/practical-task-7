@@ -1,0 +1,7 @@
+C:\Users\home\source\repos\practical-task-7\practical-task-7\bin\Debug\practical-task-7.exe.config
+C:\Users\home\source\repos\practical-task-7\practical-task-7\bin\Debug\practical-task-7.exe
+C:\Users\home\source\repos\practical-task-7\practical-task-7\bin\Debug\practical-task-7.pdb
+C:\Users\home\source\repos\practical-task-7\practical-task-7\obj\Debug\practical-task-7.csprojAssemblyReference.cache
+C:\Users\home\source\repos\practical-task-7\practical-task-7\obj\Debug\practical-task-7.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\practical-task-7\practical-task-7\obj\Debug\practical-task-7.exe
+C:\Users\home\source\repos\practical-task-7\practical-task-7\obj\Debug\practical-task-7.pdb
